@@ -1,5 +1,7 @@
-# vizitka-2023
+# zCombo reportáž
 
-Šablona projektu pro cvičení práce s Gitem.
+[moje stránka] (zcomboaha.github.io/htj/)
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+## tohle nevim co je
+
+![OBRÁZEK] (ja nevim.jpg)
